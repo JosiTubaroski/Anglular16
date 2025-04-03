@@ -60,7 +60,6 @@ Antes de começar com Angular, é importante ter uma base sólida em:
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Programacao_Assincrona/blob/main/README.md">Programação Assíncrona (Promises, Observables, RxJS)</a></p>
 </div> 
-- <b></b>
 - <b>Conceitos de SPA (Single Page Applications)</b>
 
 ### 5. Criando um Novo Projeto
