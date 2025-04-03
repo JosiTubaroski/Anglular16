@@ -27,4 +27,45 @@ Se precisar instalar ou atualizar, baixe do site oficial:
 
 🔗 https://nodejs.org/
 
+### 2. Angular CLI
 
+O Angular CLI (Command Line Interface) facilita a criação e gerenciamento de projetos Angular.
+
+🔹Instalar a versão mais recente:
+
+    npm install -g @angular/cli
+
+🔹Verificar se foi instalado corretamente:
+
+    ng version
+
+### 3. Um Editor de Código
+
+O <b>VS Code</b> é altamente recomendado, pois possui ótimas extenções para Angular.
+
+🔹 Extensões úteis:
+
+- <b>Angular Language Service</b> (autocompletar e dicas de código)
+- <b>ESLint</b> (análise de código)
+- <b>Prettier</b> (formatação automática)
+
+Baixe o VS Code:
+🔗 https://code.visualstudio.com/
+
+### 4. Conhecimentos Básicos
+
+Antes de começar com Angular, é importante ter uma base sólida em:
+
+- <b>HTML, CSS e JavaScript/TypeScript</b>
+- <b>Programação Assíncrona (Promises, Observables, RxJS)</b>
+- <b>Conceitos de SPA (Single Page Applications)</b>
+
+### 5. Criando um Novo Projeto
+
+Depois de instalar tudo, você pode criar um projeto Angular com:
+
+    ng new meu-projeto
+    cd meu-projeto
+    ng serve
+
+Acesse no navegador: http://localhost:4200/ 🚀
