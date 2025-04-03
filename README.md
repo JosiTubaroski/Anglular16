@@ -45,7 +45,11 @@ O <b>VS Code</b> é altamente recomendado, pois possui ótimas extenções para 
 
 🔹 Extensões úteis:
 
-- <b>Angular Language Service</b> (autocompletar e dicas de código)
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Programacao_Assincrona/blob/main/README.md">Angular Language Service (autocompletar e dicas de código)</a></p>
+</div> 
+
+
 - <b>ESLint</b> (análise de código)
 - <b>Prettier</b> (formatação automática)
 
