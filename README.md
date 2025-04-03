@@ -45,11 +45,7 @@ O <b>VS Code</b> é altamente recomendado, pois possui ótimas extenções para 
 
 🔹 Extensões úteis:
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Programacao_Assincrona/blob/main/README.md">Angular Language Service (autocompletar e dicas de código)</a></p>
-</div> 
-
-
+- <b>Angular Language Service</b> (autocompletar e dicas de código)</a></p>
 - <b>ESLint</b> (análise de código)
 - <b>Prettier</b> (formatação automática)
 
@@ -61,7 +57,10 @@ Baixe o VS Code:
 Antes de começar com Angular, é importante ter uma base sólida em:
 
 - <b>HTML, CSS e JavaScript/TypeScript</b>
-- <b>Programação Assíncrona (Promises, Observables, RxJS)</b>
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Programacao_Assincrona/blob/main/README.md">Programação Assíncrona (Promises, Observables, RxJS)</a></p>
+</div> 
+- <b></b>
 - <b>Conceitos de SPA (Single Page Applications)</b>
 
 ### 5. Criando um Novo Projeto
